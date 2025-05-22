@@ -1,0 +1,48 @@
+
+---
+
+## ✅ `Internship_Tasks_Description.txt`
+
+```text
+Cognifyz Technologies – Power BI Internship
+Intern: [JOEL KINGSLEY G]
+Duration: [MAY, 2025]
+
+--------------------------
+TASKS COMPLETED
+--------------------------
+
+Task 1: Data Exploration and Summary
+- Imported the dataset into Power BI
+- Explored structure and data types
+- Calculated statistics: average age, investment percentages
+- Visualized summary using cards and bar charts
+
+Task 2: Gender-based Analysis
+- Compared equity, mutual fund, and bond preferences by gender
+- Used bar charts and slicers to explore gender-specific trends
+
+Task 3: Objective-Based Analysis
+- Correlated savings objectives with investment choices
+- Used matrix and column charts to show relationships
+
+Task 4: Investment Duration and Frequency
+- Analyzed how long users invest and how often they monitor
+- Visualized using pie charts and bar graphs
+
+Task 5: Reasons for Investment
+- Investigated why individuals invest (returns, tax, retirement, etc.)
+- Displayed most frequent reasons using treemaps and charts
+
+Task 6: Source of Investment Information
+- Identified where investors get their financial advice (internet, newspapers, etc.)
+- Highlighted the most trusted sources
+
+Task 7: Final Interactive Dashboard
+- Combined all tasks into one professional Power BI dashboard
+- Included slicers, summary cards, and key insight text box
+- Final layout is interactive, clean, and insightful
+
+--------------------------
+End of Tasks
+--------------------------
